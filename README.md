@@ -1,2 +1,2 @@
-![Alt Text](images/bash-output.png)
+![Alt Text](bash-output.png)
 
